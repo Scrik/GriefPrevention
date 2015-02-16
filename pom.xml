@@ -6,7 +6,7 @@
 
     <groupId>me.ryanhamshire</groupId>
     <artifactId>GriefPrevention</artifactId>
-    <version>10.7</version>
+    <version>10.7-1.7.10</version>
 
     <repositories>
         <repository>
@@ -27,7 +27,7 @@
         <dependency>
             <groupId>org.bukkit</groupId>
             <artifactId>bukkit</artifactId>
-            <version>1.8-R0.1-SNAPSHOT</version>
+            <version>1.7.10-R0.1-SNAPSHOT</version>
             <type>jar</type>
             <scope>provided</scope>
         </dependency>
